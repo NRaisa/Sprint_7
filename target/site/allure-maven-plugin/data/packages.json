@@ -1,0 +1,204 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "name" : "packages",
+  "children" : [ {
+    "name" : "",
+    "children" : [ {
+      "name" : "courierCanNotBeCreatedWithoutPassword",
+      "uid" : "152c9dcf9bcc35c7",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209118288,
+        "stop" : 1728209120639,
+        "duration" : 2351
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierCanNotBeCreatedWithSameLogin",
+      "uid" : "413ee3cb0f047a3e",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209120701,
+        "stop" : 1728209120869,
+        "duration" : 168
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierCanNotBeCreatedWithoutLogin",
+      "uid" : "ddb57af88928a3a4",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209120873,
+        "stop" : 1728209120923,
+        "duration" : 50
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierCanNotBeCreatedWithoutLoginAndPassword",
+      "uid" : "4efffa6265e7867d",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209120925,
+        "stop" : 1728209120978,
+        "duration" : 53
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierCanBeCreated",
+      "uid" : "b301d5f579465c4e",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209120980,
+        "stop" : 1728209121209,
+        "duration" : 229
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierLoginErrorEmptyLogin",
+      "uid" : "edd16f4a74b25331",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209121213,
+        "stop" : 1728209121385,
+        "duration" : 172
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierLoginErrorEmptyLoginAndPassword",
+      "uid" : "dfd7aa010ca6a00e",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209121387,
+        "stop" : 1728209121484,
+        "duration" : 97
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierLoginErrorAccountNotFound",
+      "uid" : "a5f3cfc63e1c2f2a",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209121486,
+        "stop" : 1728209121596,
+        "duration" : 110
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierLoginOkValidData",
+      "uid" : "bdf7e0f2cd1d7b7c",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209121597,
+        "stop" : 1728209121786,
+        "duration" : 189
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "courierLoginErrorEmptyPassword",
+      "uid" : "93c1b700bc878f6d",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209121788,
+        "stop" : 1728209121907,
+        "duration" : 119
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "getOrderList",
+      "uid" : "4723fbe252ff665",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209121908,
+        "stop" : 1728209149640,
+        "duration" : 27732
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "OrderingWithScootersInDifferentColors[Цвет самоката: [BLACK]]",
+      "uid" : "802168ddbdbef6e3",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209149652,
+        "stop" : 1728209149787,
+        "duration" : 135
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "OrderingWithScootersInDifferentColors[Цвет самоката: [GRAY]]",
+      "uid" : "527204f3811ac79b",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209149788,
+        "stop" : 1728209149955,
+        "duration" : 167
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "OrderingWithScootersInDifferentColors[Цвет самоката: [BLACK, GRAY]]",
+      "uid" : "8cbc4b3e2533519f",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209149957,
+        "stop" : 1728209150061,
+        "duration" : 104
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "OrderingWithScootersInDifferentColors[Цвет самоката: []]",
+      "uid" : "7aafff41013845de",
+      "parentUid" : "be5e18e41bf32fca5cace70290d883bb",
+      "status" : "passed",
+      "time" : {
+        "start" : 1728209150064,
+        "stop" : 1728209150157,
+        "duration" : 93
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "be5e18e41bf32fca5cace70290d883bb"
+  } ]
+}

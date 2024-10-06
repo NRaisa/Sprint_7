@@ -1,0 +1,208 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "LAPTOP-JE2FE0SE",
+    "children" : [ {
+      "name" : "18064@LAPTOP-JE2FE0SE.main(1)",
+      "children" : [ {
+        "name" : "Логин курьера с пустым полем логина",
+        "uid" : "edd16f4a74b25331",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209121213,
+          "stop" : 1728209121385,
+          "duration" : 172
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Размещение заказа с самокатами разных цветов",
+        "uid" : "802168ddbdbef6e3",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209149652,
+          "stop" : 1728209149787,
+          "duration" : 135
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Создание курьера с ранее зарегистрированным логином",
+        "uid" : "413ee3cb0f047a3e",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209120701,
+          "stop" : 1728209120869,
+          "duration" : 168
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Создание курьера с пустым полем логина и пароля",
+        "uid" : "4efffa6265e7867d",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209120925,
+          "stop" : 1728209120978,
+          "duration" : 53
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Создание курьера с пустым полем пароля",
+        "uid" : "152c9dcf9bcc35c7",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209118288,
+          "stop" : 1728209120639,
+          "duration" : 2351
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Логин курьера с пустым полями логина и пароля",
+        "uid" : "dfd7aa010ca6a00e",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209121387,
+          "stop" : 1728209121484,
+          "duration" : 97
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Размещение заказа с самокатами разных цветов",
+        "uid" : "527204f3811ac79b",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209149788,
+          "stop" : 1728209149955,
+          "duration" : 167
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Создание нового курьера",
+        "uid" : "b301d5f579465c4e",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209120980,
+          "stop" : 1728209121209,
+          "duration" : 229
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Логин курьера c невалидным логином",
+        "uid" : "a5f3cfc63e1c2f2a",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209121486,
+          "stop" : 1728209121596,
+          "duration" : 110
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Логин курьера с пустым полем пароля",
+        "uid" : "93c1b700bc878f6d",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209121788,
+          "stop" : 1728209121907,
+          "duration" : 119
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Размещение заказа с самокатами разных цветов",
+        "uid" : "8cbc4b3e2533519f",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209149957,
+          "stop" : 1728209150061,
+          "duration" : 104
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Логин курьера успешен",
+        "uid" : "bdf7e0f2cd1d7b7c",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209121597,
+          "stop" : 1728209121786,
+          "duration" : 189
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Размещение заказа с самокатами разных цветов",
+        "uid" : "7aafff41013845de",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209150064,
+          "stop" : 1728209150157,
+          "duration" : 93
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Получение списка заказов",
+        "uid" : "4723fbe252ff665",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209121908,
+          "stop" : 1728209149640,
+          "duration" : 27732
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      }, {
+        "name" : "Создание курьера с пустым полем логина",
+        "uid" : "ddb57af88928a3a4",
+        "parentUid" : "ba2e536744b280686c88839a18a50046",
+        "status" : "passed",
+        "time" : {
+          "start" : 1728209120873,
+          "stop" : 1728209120923,
+          "duration" : 50
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "ba2e536744b280686c88839a18a50046"
+    } ],
+    "uid" : "4e02536e03a505ec78c747fd20d29c74"
+  } ]
+}

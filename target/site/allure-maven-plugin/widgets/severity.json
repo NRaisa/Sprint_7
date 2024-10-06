@@ -1,0 +1,151 @@
+[ {
+  "uid" : "bdf7e0f2cd1d7b7c",
+  "name" : "Логин курьера успешен",
+  "time" : {
+    "start" : 1728209121597,
+    "stop" : 1728209121786,
+    "duration" : 189
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "527204f3811ac79b",
+  "name" : "Размещение заказа с самокатами разных цветов",
+  "time" : {
+    "start" : 1728209149788,
+    "stop" : 1728209149955,
+    "duration" : 167
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dfd7aa010ca6a00e",
+  "name" : "Логин курьера с пустым полями логина и пароля",
+  "time" : {
+    "start" : 1728209121387,
+    "stop" : 1728209121484,
+    "duration" : 97
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "802168ddbdbef6e3",
+  "name" : "Размещение заказа с самокатами разных цветов",
+  "time" : {
+    "start" : 1728209149652,
+    "stop" : 1728209149787,
+    "duration" : 135
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "b301d5f579465c4e",
+  "name" : "Создание нового курьера",
+  "time" : {
+    "start" : 1728209120980,
+    "stop" : 1728209121209,
+    "duration" : 229
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4723fbe252ff665",
+  "name" : "Получение списка заказов",
+  "time" : {
+    "start" : 1728209121908,
+    "stop" : 1728209149640,
+    "duration" : 27732
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "ddb57af88928a3a4",
+  "name" : "Создание курьера с пустым полем логина",
+  "time" : {
+    "start" : 1728209120873,
+    "stop" : 1728209120923,
+    "duration" : 50
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "edd16f4a74b25331",
+  "name" : "Логин курьера с пустым полем логина",
+  "time" : {
+    "start" : 1728209121213,
+    "stop" : 1728209121385,
+    "duration" : 172
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a5f3cfc63e1c2f2a",
+  "name" : "Логин курьера c невалидным логином",
+  "time" : {
+    "start" : 1728209121486,
+    "stop" : 1728209121596,
+    "duration" : 110
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "93c1b700bc878f6d",
+  "name" : "Логин курьера с пустым полем пароля",
+  "time" : {
+    "start" : 1728209121788,
+    "stop" : 1728209121907,
+    "duration" : 119
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "413ee3cb0f047a3e",
+  "name" : "Создание курьера с ранее зарегистрированным логином",
+  "time" : {
+    "start" : 1728209120701,
+    "stop" : 1728209120869,
+    "duration" : 168
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "7aafff41013845de",
+  "name" : "Размещение заказа с самокатами разных цветов",
+  "time" : {
+    "start" : 1728209150064,
+    "stop" : 1728209150157,
+    "duration" : 93
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "152c9dcf9bcc35c7",
+  "name" : "Создание курьера с пустым полем пароля",
+  "time" : {
+    "start" : 1728209118288,
+    "stop" : 1728209120639,
+    "duration" : 2351
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "4efffa6265e7867d",
+  "name" : "Создание курьера с пустым полем логина и пароля",
+  "time" : {
+    "start" : 1728209120925,
+    "stop" : 1728209120978,
+    "duration" : 53
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8cbc4b3e2533519f",
+  "name" : "Размещение заказа с самокатами разных цветов",
+  "time" : {
+    "start" : 1728209149957,
+    "stop" : 1728209150061,
+    "duration" : 104
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]

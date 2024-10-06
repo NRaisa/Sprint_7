@@ -1,0 +1,150 @@
+{
+  "uid" : "4efffa6265e7867d",
+  "name" : "Создание курьера с пустым полем логина и пароля",
+  "fullName" : "CourierCreateTest.courierCanNotBeCreatedWithoutLoginAndPassword",
+  "historyId" : "659e05c4e7e7e453ac2ad6bc7ef5f8aa",
+  "time" : {
+    "start" : 1728209120925,
+    "stop" : 1728209120978,
+    "duration" : 53
+  },
+  "description" : "Проверяем, что курьера нельзя создать без ввода логина и  пароля",
+  "descriptionHtml" : "<p>Проверяем, что курьера нельзя создать без ввода логина и  пароля</p>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "Проверяем, что курьера нельзя создать без ввода логина и  пароля",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "Создание тестовых данных курьера",
+      "time" : {
+        "start" : 1728209120925,
+        "stop" : 1728209120926,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "Создание нового курьера с рандомными данными",
+        "time" : {
+          "start" : 1728209120926,
+          "stop" : 1728209120926,
+          "duration" : 0
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ ],
+        "parameters" : [ ],
+        "attachmentsCount" : 0,
+        "shouldDisplayMessage" : false,
+        "stepsCount" : 0,
+        "hasContent" : false
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 1,
+      "hasContent" : true
+    }, {
+      "name" : "Регистрация нового курьера",
+      "time" : {
+        "start" : 1728209120926,
+        "stop" : 1728209120966,
+        "duration" : 40
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "courierModel",
+        "value" : "org.example.CourierModel@63b85d97"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Проверка ответа сервера при неполных данных",
+      "time" : {
+        "start" : 1728209120966,
+        "stop" : 1728209120978,
+        "duration" : 12
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ {
+        "name" : "response",
+        "value" : "io.restassured.internal.ValidatableResponseImpl@441d3ddf"
+      } ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : true
+    }, {
+      "name" : "Удаление тестовых данных",
+      "time" : {
+        "start" : 1728209120978,
+        "stop" : 1728209120978,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 5,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "package",
+    "value" : ""
+  }, {
+    "name" : "testClass",
+    "value" : "CourierCreateTest"
+  }, {
+    "name" : "testMethod",
+    "value" : "courierCanNotBeCreatedWithoutLoginAndPassword"
+  }, {
+    "name" : "suite",
+    "value" : "CourierCreateTest"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-JE2FE0SE"
+  }, {
+    "name" : "thread",
+    "value" : "18064@LAPTOP-JE2FE0SE.main(1)"
+  }, {
+    "name" : "framework",
+    "value" : "junit4"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "4efffa6265e7867d.json",
+  "parameterValues" : [ ]
+}
